@@ -19,6 +19,7 @@ DB_PW='password' (replace password with your MySQL password)
 
 ## Walkthrough Videos
 [Creating the E-Commerce Database](https://drive.google.com/file/d/18CKCt0IV9kHudHzysO3gkb3rde1qxHsP/view?usp=sharing)
+
 [Testing the E-Commerce Data](https://drive.google.com/file/d/11S9rkXS939agTBfx6qWX3MMW4THDaQGG/view?usp=sharing)
 
 ## License
